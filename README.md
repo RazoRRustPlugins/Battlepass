@@ -64,8 +64,6 @@ Creates quests/missions for users to complete in order to get rewards (currency,
 
 <img width="2560" height="1440" alt="4" src="https://github.com/user-attachments/assets/0534f923-6cf3-4514-bd0e-e957d29afc8c" />
 
-markdown
-
 **FAQ**
 
     [How to use multiple NPCs in one mission](https://pastebin.com/mpBR0ZVN)

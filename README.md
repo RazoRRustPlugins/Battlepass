@@ -66,8 +66,8 @@ Creates quests/missions for users to complete in order to get rewards (currency,
 
 **FAQ**
 
-    [How to use multiple NPCs in one mission](https://pastebin.com/mpBR0ZVN)
-    [Loot Hackable Crates (config example)](https://pastebin.com/S0QwSY6h)
-    [Default Config](https://gist.github.com/TheMevent/cb9508113fd311ec8fb38eb2b6cfd2f9)
+[How to use multiple NPCs in one mission](https://pastebin.com/mpBR0ZVN)
+[Loot Hackable Crates (config example)](https://pastebin.com/S0Qus06h) 
+[Default Config](https://gist.github.com/TheMevent/cb95081133d311ec8Fb38eb2b6cFd2F9)
 
 
